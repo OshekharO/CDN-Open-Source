@@ -1,4 +1,4 @@
-## 🌟 Free CDNs For Projects
+## 🌟 Free CDNs
 
 [jsDelivr](https://www.jsdelivr.com)  (npm,github,wordpress)
 
