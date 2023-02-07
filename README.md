@@ -2,8 +2,6 @@
 
 [jsDelivr](https://www.jsdelivr.com)  (npm,github,wordpress)
 
-[GitCDN](https://gitcdn.link) (github)
-
 [Combinatronics](https://www.combinatronics.com) (github)
 
 [Statically](https://statically.io) (github,wordpress,gitlab,bitbucket)
