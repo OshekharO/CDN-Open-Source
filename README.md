@@ -1,30 +1,30 @@
-## 🌟 Free CDNs
+## 🌟 ᖴᖇEE ᑕᗪᑎᔕ
 
-[jsDelivr](https://www.jsdelivr.com)  (npm,github,wordpress)
+[ᴊꜱᴅᴇʟɪᴠʀ](https://www.jsdelivr.com) : 𝚗𝚙𝚖,𝚐𝚒𝚝𝚑𝚞𝚋,𝚠𝚘𝚛𝚍𝚙𝚛𝚎𝚜𝚜
 
-[Combinatronics](https://www.combinatronics.com) (github)
+[ᴄᴏᴍʙɪɴᴀᴛʀᴏɴɪᴄꜱ](https://www.combinatronics.com) : 𝚐𝚒𝚝𝚑𝚞𝚋
 
-[Statically](https://statically.io) (github,wordpress,gitlab,bitbucket)
+[ꜱᴛᴀᴛɪᴄᴀʟʟʏ](https://statically.io) : 𝚐𝚒𝚝𝚑𝚞𝚋,𝚠𝚘𝚛𝚍𝚙𝚛𝚎𝚜𝚜,𝚐𝚒𝚝𝚕𝚊𝚋,𝚋𝚒𝚝𝚋𝚞𝚌𝚔𝚎𝚝
 
-[Raw Githack](https://raw.githack.com) (github,gitlab,bitbucket,sourcehut)
+[ʀᴀᴡ ɢɪᴛʜᴀᴄᴋ](https://raw.githack.com) : 𝚐𝚒𝚝𝚑𝚞𝚋,𝚐𝚒𝚝𝚕𝚊𝚋,𝚋𝚒𝚝𝚋𝚞𝚌𝚔𝚎𝚝,𝚜𝚘𝚞𝚛𝚌𝚎𝚑𝚞𝚝
 
-[cdnjs](https://cdnjs.com) (npm,github)
+[ᴄᴅɴᴊꜱ](https://cdnjs.com) : 𝚗𝚙𝚖,𝚐𝚒𝚝𝚑𝚞𝚋
 
-[Skypack](https://skypack.dev) (npm)
+[ꜱᴋʏᴘᴀᴄᴋ](https://skypack.dev) : 𝚗𝚙𝚖
 
-[UNPKG](https://unpkg.com/) (npm)
+[ᴜɴᴘᴋɢ](https://unpkg.com/) : 𝚗𝚙𝚖
 
-[esm.sh](https://esm.sh) (npm)
+[ᴇꜱᴍ.ꜱʜ](https://esm.sh) : 𝚗𝚙𝚖
 
-[esm.run](https://esm.run) (npm)
+[ᴇꜱᴍ.ʀᴜɴ](https://esm.run) : 𝚗𝚙𝚖
 
-[JSPM](https://jspm.org) (npm)
+[ᴊꜱᴘᴍ](https://jspm.org) : 𝚗𝚙𝚖
 
-## 🤗 Meet Me :
+## 🤗 ᑕOᑎTᗩᑕT ᗰE :
 
-• 😪 check you did all things perfectly before contacting [ Warning ] <br>
+• 𝐶𝒉𝑒𝑐𝑘 𝑦𝑜𝑢 𝑑𝑖𝑑 𝑎𝑙𝑙 𝑡𝒉𝑖𝑛𝑔𝑠 𝑝𝑒𝑟𝑓𝑒𝑐𝑡𝑙𝑦 𝑏𝑒𝑓𝑜𝑟𝑒 𝑐𝑜𝑛𝑡𝑎𝑐𝑡𝑖𝑛𝑔 [ 𝑊𝑎𝑟𝑛𝑖𝑛𝑔 ] <br>
 
-• For any Support About Script contact [@OshekherO](https://t.me/OshekherO) at Telegram <br>
+• 𝙵𝚘𝚛 𝚊𝚗𝚢 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 [@𝙾𝚜𝚑𝚎𝚔𝚑𝚎𝚛𝙾](https://t.me/OshekherO) 𝔞𝔱 𝔗𝔢𝔩𝔢𝔤𝔯𝔞𝔪 <br>
 
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
