@@ -2,7 +2,7 @@
 
 [ᴊꜱᴅᴇʟɪᴠʀ](https://www.jsdelivr.com) : 𝚗𝚙𝚖,𝚐𝚒𝚝𝚑𝚞𝚋,𝚠𝚘𝚛𝚍𝚙𝚛𝚎𝚜𝚜
 
-[ᴄᴏᴍʙɪɴᴀᴛʀᴏɴɪᴄꜱ](https://www.combinatronics.com) : 𝚐𝚒𝚝𝚑𝚞𝚋
+[ᴄᴏᴍʙɪɴᴀᴛʀᴏɴɪᴄꜱ](https://combinatronics.io/) : 𝚐𝚒𝚝𝚑𝚞𝚋
 
 [ꜱᴛᴀᴛɪᴄᴀʟʟʏ](https://statically.io) : 𝚐𝚒𝚝𝚑𝚞𝚋,𝚐𝚒𝚝𝚕𝚊𝚋,𝚋𝚒𝚝𝚋𝚞𝚌𝚔𝚎𝚝
 
