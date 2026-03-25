@@ -1,30 +1,70 @@
-## 🌟 ᖴᖇEE ᑕᗪᑎᔕ
+# 🌟 Free CDNs
 
-[ᴊꜱᴅᴇʟɪᴠʀ](https://www.jsdelivr.com) : 𝚗𝚙𝚖,𝚐𝚒𝚝𝚑𝚞𝚋,𝚠𝚘𝚛𝚍𝚙𝚛𝚎𝚜𝚜
+A curated list of free Content Delivery Networks (CDNs) for serving open-source libraries and files.
 
-[ᴄᴏᴍʙɪɴᴀᴛʀᴏɴɪᴄꜱ](https://combinatronics.io/) : 𝚐𝚒𝚝𝚑𝚞𝚋
+## 📋 Table of Contents
 
-[ꜱᴛᴀᴛɪᴄᴀʟʟʏ](https://statically.io) : 𝚐𝚒𝚝𝚑𝚞𝚋,𝚐𝚒𝚝𝚕𝚊𝚋,𝚋𝚒𝚝𝚋𝚞𝚌𝚔𝚎𝚝
+- [🔀 Multi-Source CDNs](#-multi-source-cdns)
+- [📦 npm CDNs](#-npm-cdns)
+- [📚 Popular Library CDNs](#-popular-library-cdns)
+- [🐙 Git-Only CDNs](#-git-only-cdns)
 
-[ʀᴀᴡ ɢɪᴛʜᴀᴄᴋ](https://raw.githack.com) : 𝚐𝚒𝚝𝚑𝚞𝚋,𝚐𝚒𝚝𝚕𝚊𝚋,𝚋𝚒𝚝𝚋𝚞𝚌𝚔𝚎𝚝
+---
 
-[ᴄᴅɴᴊꜱ](https://cdnjs.com) : 𝚗𝚙𝚖,𝚐𝚒𝚝𝚑𝚞𝚋
+## 🔀 Multi-Source CDNs
 
-[ꜱᴋʏᴘᴀᴄᴋ](https://skypack.dev) : 𝚗𝚙𝚖
+CDNs that can serve files from multiple sources (npm, Git repos, etc.).
 
-[ᴜɴᴘᴋɢ](https://unpkg.com/) : 𝚗𝚙𝚖
+| CDN | Sources | Base URL |
+|-----|---------|----------|
+| [jsDelivr](https://www.jsdelivr.com) | npm, GitHub, WordPress | `https://cdn.jsdelivr.net/` |
+| [cdnjs](https://cdnjs.com) | npm, GitHub (curated) | `https://cdnjs.cloudflare.com/ajax/libs/` |
+| [Statically](https://statically.io) | GitHub, GitLab, Bitbucket, WordPress | `https://cdn.statically.io/` |
+| [Raw Githack](https://raw.githack.com) | GitHub, GitLab, Bitbucket, Gitea | `https://rawcdn.githack.com/` |
+| [PageCDN](https://pagecdn.io) | npm, GitHub (curated) | `https://pagecdn.io/lib/` |
 
-[ᴇꜱᴍ.ꜱʜ](https://esm.sh) : 𝚗𝚙𝚖
+---
 
-[ᴇꜱᴍ.ʀᴜɴ](https://esm.run) : 𝚗𝚙𝚖
+## 📦 npm CDNs
 
-[ᴊꜱᴘᴍ](https://jspm.org) : 𝚗𝚙𝚖
+CDNs that serve packages directly from the npm registry.
 
-## 🤗 ᑕOᑎTᗩᑕT ᗰE :
+| CDN | Description | Base URL |
+|-----|-------------|----------|
+| [unpkg](https://unpkg.com) | Fast global CDN for every npm package | `https://unpkg.com/` |
+| [Skypack](https://skypack.dev) | npm packages optimized for modern browsers (ESM) | `https://cdn.skypack.dev/` |
+| [esm.sh](https://esm.sh) | Modern ESM CDN for npm packages | `https://esm.sh/` |
+| [esm.run](https://esm.run) | jsDelivr-powered ESM CDN | `https://esm.run/` |
+| [JSPM](https://jspm.org) | npm packages as native ES modules via import maps | `https://ga.jspm.io/npm:` |
 
-• 𝐶𝒉𝑒𝑐𝑘 𝑦𝑜𝑢 𝑑𝑖𝑑 𝑎𝑙𝑙 𝑡𝒉𝑖𝑛𝑔𝑠 𝑝𝑒𝑟𝑓𝑒𝑐𝑡𝑙𝑦 𝑏𝑒𝑓𝑜𝑟𝑒 𝑐𝑜𝑛𝑡𝑎𝑐𝑡𝑖𝑛𝑔 [ 𝑊𝑎𝑟𝑛𝑖𝑛𝑔 ] <br>
+---
 
-• 𝙵𝚘𝚛 𝚊𝚗𝚢 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 [@𝙾𝚜𝚑𝚎𝚔𝚑𝚎𝚛𝙾](https://t.me/OshekherO) 𝔞𝔱 𝔗𝔢𝔩𝔢𝔤𝔯𝔞𝔪 <br>
+## 📚 Popular Library CDNs
+
+CDNs maintained by major companies that host curated, widely-used libraries.
+
+| CDN | Hosted Libraries | Base URL |
+|-----|-----------------|----------|
+| [Google Hosted Libraries](https://developers.google.com/speed/libraries) | jQuery, Angular, Bootstrap, D3.js, and more | `https://ajax.googleapis.com/ajax/libs/` |
+| [Microsoft Ajax CDN](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview) | jQuery, Bootstrap, Knockout.js, and more | `https://ajax.aspnetcdn.com/ajax/` |
+| [BootstrapCDN](https://www.bootstrapcdn.com) | Bootstrap, Font Awesome, Bootswatch | `https://cdn.bootstrapcdn.com/` |
+
+---
+
+## 🐙 Git-Only CDNs
+
+CDNs that serve raw files directly from Git repositories.
+
+| CDN | Sources | Base URL |
+|-----|---------|----------|
+| [Combinatronics](https://combinatronics.io) | GitHub | `https://combinatronics.io/` |
+
+---
+
+## 🤗 Contact Me
+
+- Check you did all things perfectly before contacting [ Warning ]
+- For any Support contact [@OshekherO](https://t.me/OshekherO) at Telegram
 
 ---
 <h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
