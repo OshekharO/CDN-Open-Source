@@ -67,7 +67,7 @@ CDNs that serve raw files directly from Git repositories.
 - For any Support contact [@OshekherO](https://t.me/OshekherO) at Telegram
 
 ---
-<h4 align='center'>© 2022 ツ ѕнєкнєя</h4>
+<h4 align='center'>© 2026 ツ OshekharO</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
 
